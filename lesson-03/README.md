@@ -1,4 +1,4 @@
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>
 
 # Install Atom.
 
@@ -364,7 +364,7 @@ Here is an example of what that includes these added HTML elements look like:
 ![challenge03](challenge03/challenge03.png)
 
 ## Final Remarks
-[Here](https://wes-chen.github.io/build-a-website/lesson-03/sample.html){:target="_blank"} is an example of more things you could put on your website!
+[Here](https://tritonse.github.io/build-a-website/lesson-03/sample.html){:target="_blank"} is an example of more things you could put on your website!
 
 [Codecademy](https://www.codecademy.com/learn){:target="_blank"} does a pretty good job of teaching HTML. Run through [this HTML tutorial](https://www.codecademy.com/learn/learn-html){:target="_blank"} to learn more.
 
@@ -372,4 +372,4 @@ Here is an example of what that includes these added HTML elements look like:
 
 For next lesson, we learn about CSS, a styling language used to help our HTML look better. If you would like to get ahead, then please run through this [Codecademy tutorial](https://www.codecademy.com/learn/learn-css){:target="_blank"} at your own pace before the next lesson.
 
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>

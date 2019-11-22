@@ -1,4 +1,4 @@
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>
 
 # Add Pages and Host Static Files
 
@@ -14,7 +14,7 @@ If you double-click your `index.html`, then it will open it up in Google Chrome.
 
 Your `other.html` should have any personal content that you previously made.
 
-If you do not have an `index.html` or an `other.html`, then you should look back at the [previous lessons](https://wes-chen.github.io/build-a-website/){:target="_blank"} to make sure you have those two files created.
+If you do not have an `index.html` or an `other.html`, then you should look back at the [previous lessons](https://tritonse.github.io/build-a-website/){:target="_blank"} to make sure you have those two files created.
 
 Once you have an `index.html` and an `other.html`, let's move forward!
 

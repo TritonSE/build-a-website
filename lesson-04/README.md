@@ -1,4 +1,4 @@
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>
 
 # CSS Basics
 
@@ -126,7 +126,7 @@ To download the starter code, right-click the starter code link below, then sele
 Here is the [starter code](example.html).
 
 Some hints to get you started:
-- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://tritonse.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
 - Remember to make your styling changes within the `style` HTML tags at the top of the `example.html` file.
 - Once you make your changes, don't forget to SAVE your `example.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
 - In order to check your changes, try double-clicking your `example.html` file to open it in your web browser.
@@ -185,7 +185,7 @@ Let's make more changes to styling inside your `example.html` file.
 7.  Make the text in the second `div` gray.
 
 Some hints to get you started:
-- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://tritonse.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
 - Remember to make your styling changes within the `style` HTML tags at the top of the `example.html` file.
 - `color` will be the property that you want to use.
 - When making changes within the `style` HTML tags, `.` is for classes, and `#` is for id's.
@@ -248,7 +248,7 @@ Here is the final challenge of this lesson. Less hand-holding this time.
 3.  You decide to have some color to your background. Set the `background-color` of the second `div` to red.
 
 Some hints to get you started:
-- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://tritonse.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
 - Remember to make your styling changes within the `style` HTML tags at the top of the `example.html` file.
 - When making changes within the `style` HTML tags, `.` is for classes, and `#` is for id's.
 - Once you make your changes, don't forget to SAVE your `example.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.
@@ -275,7 +275,7 @@ Using your new knowledge of CSS, go ahead and make some changes to your main web
 Some hints to get you started:
 - We are now making changes to your website, so this means that you must make changes to `index.html`! This file can be found in your local GitHub repository (`Documents -> GitHub -> [username].github.io`).
 - You may need to set up the HTML hierarchy (e.g. `<html>...</html>`, `<head>...</head>`, `<body>...</body>`, etc.).
-- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://wes-chen.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
+- If you are unsure what all those HTML tags in the `example.html` file are (e.g. `head`, `style`, `body`, `h1`, etc.), you may have to look back to the [previous lesson](https://tritonse.github.io/build-a-website/lesson-03/){:target="_blank"} to learn what those HTML tags mean.
 - Remember to make your styling changes within the `style` HTML tags at the top of the `index.html` file.
 - When making changes within the `style` HTML tags, `.` is for classes, and `#` is for id's.
 - Once you make your changes, don't forget to SAVE your `index.html` file. This can be done by clicking `File->Save` or by pressing `CTRL + S` at the same time.

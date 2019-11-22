@@ -1,4 +1,4 @@
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>
 
 # Welcome, Setup, Github Accounts
 
@@ -10,14 +10,14 @@ You will learn how use Github, and you will learn how to make your own website.
 
 ## What are we doing today?
 
--   [Introductions](https://wes-chen.github.io/build-a-website/lesson-01/#introductions)
--   [What is Triton Software Engineering?](https://wes-chen.github.io/build-a-website/lesson-01/#what-is-triton-software-engineering)
--   [Why are you here?](https://wes-chen.github.io/build-a-website/lesson-01/#why-are-you-here)
--   [Google is your friend.](https://wes-chen.github.io/build-a-website/lesson-01/#google-is-your-friend)
--   [What is Git?](https://wes-chen.github.io/build-a-website/lesson-01/#git)
--   [What is Github?](https://wes-chen.github.io/build-a-website/lesson-01/#github)
--   [What is Github Desktop?](https://wes-chen.github.io/build-a-website/lesson-01/#github-desktop)
--   [Task: Make your own github accounts!](https://wes-chen.github.io/build-a-website/lesson-01/#task-make-a-github-account)
+-   [Introductions](https://tritonse.github.io/build-a-website/lesson-01/#introductions)
+-   [What is Triton Software Engineering?](https://tritonse.github.io/build-a-website/lesson-01/#what-is-triton-software-engineering)
+-   [Why are you here?](https://tritonse.github.io/build-a-website/lesson-01/#why-are-you-here)
+-   [Google is your friend.](https://tritonse.github.io/build-a-website/lesson-01/#google-is-your-friend)
+-   [What is Git?](https://tritonse.github.io/build-a-website/lesson-01/#git)
+-   [What is Github?](https://tritonse.github.io/build-a-website/lesson-01/#github)
+-   [What is Github Desktop?](https://tritonse.github.io/build-a-website/lesson-01/#github-desktop)
+-   [Task: Make your own github accounts!](https://tritonse.github.io/build-a-website/lesson-01/#task-make-a-github-account)
 
 ## Introductions:
 
@@ -122,7 +122,7 @@ There are a bunch of stuff to understand about Git (which can be learned through
 
 Here is a picture of the Git workflow:
 
-![local workflow](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-01/gitLocalWorkflow.png)
+![local workflow](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-01/gitLocalWorkflow.png)
 
 If you still are confused (even after reading the handbook), don't forget that Google is your friend - feel free to search up anything you need help with!
 
@@ -138,7 +138,7 @@ In the next lesson, we will explore what [Github Desktop](https://desktop.github
 
 One of the first steps of succeeding in this program is by making a Github account.
 
-![sign-up page](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-01/github-sign-up.png)
+![sign-up page](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-01/github-sign-up.png)
 
 Steps:
 1.  Go to [github.com](https://github.com){:target="_blank"}.
@@ -147,4 +147,4 @@ Steps:
 4.  Follow the instructions of this [guide](https://guides.github.com/activities/hello-world/){:target="\_blank"} to make your own [repository](https://blog.axosoft.com/learning-git-repository/){:target="\_blank"}!
 5.  Congratulations! You're one step closer to succeeding in this program and becoming a developer!
 
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>

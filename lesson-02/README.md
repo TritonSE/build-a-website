@@ -1,4 +1,4 @@
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>
 
 # GitHub Desktop, GitHub Pages
 
@@ -27,7 +27,7 @@ git init
 Cloning a repository:
 
 ```bash
-git clone https://github.com/wes-chen/build-a-website.git
+git clone https://github.com/tritonse/build-a-website.git
 ```
 
 Pulling the most recent changes from your repository:
@@ -48,7 +48,7 @@ Pushing your changes to the cloud (GitHub):
 git push origin [branch-name]
 ```
 
-![Git Workflow](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/gitLocalWorkflow.png)
+![Git Workflow](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/gitLocalWorkflow.png)
 
 ### Fear not - GitHub Desktop to the rescue!
 
@@ -60,47 +60,47 @@ GitHub Desktop makes it easy for us to do all of these Git operations with the c
 
 Let's try to pull our repository from last lesson, edit some files, commit our changes, then push it back to GitHub!
 
-If you do not remember the contents of last lesson, no worries! [Here](https://wes-chen.github.io/build-a-website/lesson-01){:target="\_blank"} is the last lesson. Please [create a GitHub account](https://github.com/join){:target="\_blank"} or [log in to your GitHub account](https://github.com/login){:target="\_blank"} and follow [this guide](https://guides.github.com/activities/hello-world/){:target="\_blank"} to make your own repository!
+If you do not remember the contents of last lesson, no worries! [Here](https://tritonse.github.io/build-a-website/lesson-01){:target="\_blank"} is the last lesson. Please [create a GitHub account](https://github.com/join){:target="\_blank"} or [log in to your GitHub account](https://github.com/login){:target="\_blank"} and follow [this guide](https://guides.github.com/activities/hello-world/){:target="\_blank"} to make your own repository!
 
 1.  Sign in to GitHub Desktop
 
-![Github Desktop Login](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-first-screen.png)
+![Github Desktop Login](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-first-screen.png)
 
 Sign into GitHub Desktop with your user credentials.
 
 2.  Clone your repository from the cloud.
 
 Select a repository to clone from GitHub. In this case, it should be your hello-world repository that you made last lesson.
-![Github Desktop Clone Step 1](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-no-repos.png)
+![Github Desktop Clone Step 1](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-no-repos.png)
 
 Clone your repository into your local machine wherever you want to store your files. Make sure it is at a location where you can easily find it!
-![Github Desktop Clone Step 2](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-clone-a-repo.png)
+![Github Desktop Clone Step 2](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-clone-a-repo.png)
 
 Congratulations! You have successfully cloned your repository from the cloud. If you navigate to the folder to where you cloned the repository, then you should be able to find a README.md file!
-![Github Desktop Clone Step 3](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-repo-view.png)
+![Github Desktop Clone Step 3](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-repo-view.png)
 
 3.  Make a few edits!
 
-![Editing my files original](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/text-editor-original-text.png)
+![Editing my files original](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/text-editor-original-text.png)
 This is a screenshot of what I originally had in my README.md file. You can open your README.md file using any text editor, but our text editor of choice is [Atom](https://atom.io/).
 
-![Editing my files edited](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/text-editor-edited-text.png)
+![Editing my files edited](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/text-editor-edited-text.png)
 Here, I have edited the contents of my README.md file! Feel free to make any changes you would like to your README.md file, and then press _CTRL + S_ (on Windows) or _CMD + S_ (on Mac) to save your changes to the README.md file. Suggestions for changes include: your name, your GitHub username, or a list of your hobbies. To learn about how to create different size fonts that will appear on GitHub later, check out this [short guide](https://guides.github.com/features/mastering-markdown/){:target="\_blank"} for more information!
 
 4.  Commit your changes to your local Git repository.
 
-![Github Desktop Commit](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-view-changes.png)
+![Github Desktop Commit](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-view-changes.png)
 If we check GitHub Desktop, then we should see either red or green highlights on the right indicating which lines of the README.md file have been altered. You should be able to commit these changes to your local repository on the [master branch](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell){:target="\_blank"}! Remember to write a meaningful [commit message](https://chris.beams.io/posts/git-commit/){:target="\_blank"} so you know why you made this change!
 
 5.  Push your changes to the repository.
 
-![Github Desktop Ready to Push](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-ready-to-push.png)
+![Github Desktop Ready to Push](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-ready-to-push.png)
 Now that I have committed something to my local repository, I am ready to push my local changes to my online GitHub repository! Click the "Push origin" button near the top of the GitHub Desktop interface.
 
-![Github Desktop Pushed](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-desktop-pushed.png)
+![Github Desktop Pushed](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-desktop-pushed.png)
 I have pushed my local changes to GitHub!
 
-![See changes on Github](https://raw.githubusercontent.com/wes-chen/build-a-website/master/lesson-02/github-my-changed-repo.png)
+![See changes on Github](https://raw.githubusercontent.com/tritonse/build-a-website/master/lesson-02/github-my-changed-repo.png)
 If I check my GitHub account, I can see my new changes reflected online on GitHub. If you are unable to find your repository, clicking on your profile should give you a list of your own repositories.
 
 ## GitHub Pages
@@ -141,7 +141,7 @@ GitHub has a really awesome feature where you can host your own website FOR FREE
 <br>
 
 10. Go to <https://[your-username].github.io> to see your website! (Make sure to use your own username in the link)
-    <a href="https://wes-chen.github.io/build-a-website/lesson-02/example.html" target="_blank">Here</a> is an example of what you should expect to see.
+    <a href="https://tritonse.github.io/build-a-website/lesson-02/example.html" target="_blank">Here</a> is an example of what you should expect to see.
     <br>
 
 11. Congratuluations! You are now hosting your mini website on GitHub Pages! If you would like to add text to your website, then you can edit _index.html_ in anyway you like, commit those changes to your local repository, then push those local changes to the online [username].github.io repository. You will be able to see your changes if you follow those steps correctly!
@@ -171,4 +171,4 @@ To make sure your changes worked, always check your GitHub Pages website at [you
 
 Next lesson, we learn about the essentials of HTML. HTML provides a skeleton for your webpage so that it will start to have a structure to it. If you are looking to get ahead, please run through this [CodeAcademy tutorial](https://www.codecademy.com/learn/learn-html){:target="\_blank"} at your own pace before the next lesson.
 
-<a href="https://wes-chen.github.io/build-a-website/">Return to course home</a>
+<a href="https://tritonse.github.io/build-a-website/">Return to course home</a>
