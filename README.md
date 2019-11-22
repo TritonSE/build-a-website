@@ -19,12 +19,12 @@ The final two lessons involve a challenge to make your own professional website 
 
 ### Lesson Plan
 
-1.  [Welcome, Setup, Github Accounts](https://wes-chen.github.io/build-a-website/lesson-01/)
-2.  [Github Desktop, Github Pages](https://wes-chen.github.io/build-a-website/lesson-02/)
-3.  [HTML Basics](https://wes-chen.github.io/build-a-website/lesson-03/)
-4.  [CSS Styling](https://wes-chen.github.io/build-a-website/lesson-04/)
-5.  [Add Bootstrap](https://wes-chen.github.io/build-a-website/lesson-05/)
-6.  [Add Pages and Host Static Files](https://wes-chen.github.io/build-a-website/lesson-06/)
+1.  [Welcome, Setup, Github Accounts](lesson-01)
+2.  [Github Desktop, Github Pages](lesson-02)
+3.  [HTML Basics](lesson-03)
+4.  [CSS Styling](lesson-04)
+5.  [Add Bootstrap](lesson-05)
+6.  [Add Pages and Host Static Files](lesson-06)
 
 By the end of this program, you will have a working website that you can proudly show off to your friends and family.
 
