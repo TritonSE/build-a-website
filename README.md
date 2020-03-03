@@ -1,10 +1,9 @@
 # build-a-website
 
-This repository holds the syllabus and lesson plans for Mar Vista High School "Build a Website" program.
-This is still a work in progress as some lessons are not complete yet.
+This repository holds the syllabus and lesson plans for Triton Software Engineering's "Build a Website" program. This program is intended to give teenagers a small insight into what computer science can look like through building their own static website with Github Pages, learning HTML, CSS, and Bootstrap.
 
-[![last commit](https://img.shields.io/github/last-commit/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website)
-[![license](https://img.shields.io/github/license/wes-chen/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website/blob/master/LICENSE)
+[![last commit](https://img.shields.io/github/last-commit/tritonse/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website)
+[![license](https://img.shields.io/github/license/tritonse/build-a-website.svg?style=flat)](https://github.com/wes-chen/build-a-website/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## Syllabus
@@ -13,9 +12,7 @@ This is a program that will teach you how to create your own website.
 
 The first two lessons will cover the essentials with Git, Github, Github Desktop, and Github Pages.
 
-The next four lessons will cover basic fundamentals of HTML, CSS, and how to host static resources. That is all you will need to create your website.
-
-The final two lessons involve a challenge to make your own professional website and how you can use Github Pages to host other projects you may have.
+The next four lessons will cover basic fundamentals of HTML, CSS, Bootstrap, and how to host static resources. That is all you will need to create your website.
 
 ### Lesson Plan
 
