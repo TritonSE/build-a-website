@@ -213,7 +213,7 @@ For this lesson, `span` is not as important because we will not cover any stylin
 Let's try adding more three HTML elements to your website! Go ahead and edit your `index.html` file so that you insert these items to the bottom of what you currently have:
 
 - a button that says "Click me!"
-- am image of a dog
+- an image of a dog
 - an image of a cat
 - two line breaks between the paragraph element of your name and the heading element of "Description"
 - one line break between the anchor element and the button element
